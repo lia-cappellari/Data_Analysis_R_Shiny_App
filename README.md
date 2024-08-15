@@ -1,4 +1,4 @@
-# Data_Analysis_R_Shiny_App
+# Data Analysis R Shiny App
 Interactive R Shiny web portal within R Studio to facilitate seamless data analysis and visualization, tailored to user-uploaded datasets
 
 ## Overview 
@@ -12,6 +12,8 @@ This application was created using R Shiny within R studio. The purpose of this 
 5. Verify ANOVA Model Assumption: The application will display three tabs (Normality Plot, Constance Variance Plot, and Independence Plot) so that users may click through these tabs and verify that all three of the ANOVA model assumptions are met.
 6. Visualiza Data: The application will display 4 tabs that show 4 different visualizations of the data. The first is the main effects plot and users can select the specific variables that they want to see the effects for. The second is the interaction plots and users can select the specific factors they want to view the interaction effect of. The third tab displays the boxplot of factors and users can select multiple factors to compare. Lastly, the fourth tab displays the contour plot and users may select 2 variables to view on this graph.
 7. Analyse Results / Formulate Conclusions
+
+For a more detailed understanding of how to use the app, please look at the user manual. 
 
 
 <img width="897" alt="Screenshot 2024-07-31 at 10 04 00 AM" src="https://github.com/user-attachments/assets/c639a1ae-75ff-4e49-9a45-66f7eb76d74c">
